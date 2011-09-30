@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/calas/spree-email-to-friend'
   s.required_ruby_version = '>= 1.8.7'
 
-  s.author        = 'Jorge Calás Lozano, Roman Smirnov'
+  s.author        = 'Jorge Calas Lozano, Roman Smirnov'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
