@@ -1,5 +1,3 @@
-# encoding: utf-8
-
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_email_to_friend'
